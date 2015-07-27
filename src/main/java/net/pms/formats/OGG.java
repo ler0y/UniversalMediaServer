@@ -56,7 +56,9 @@ public class OGG extends MP3 {
 			"ra",
 			"shn",
 			"tta",
-			"wv"
+			"wv",
+			"dff",
+			"dsf"
 		};
 	}
 
